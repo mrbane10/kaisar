@@ -7,16 +7,40 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi there! I'm Kaisar Imtiyaz, a Machine Learning enthusiast and a B.Tech student at IIT Kharagpur in Mechanical Engineering. My journey in technology has led me to specialize in NLP, Computer Vision, and LLM Fine-tuning, with hands-on experience in building solutions for real-world applications.
+About Me
+I am a Final Year Engineering student at the Indian Institute of Technology Kharagpur with a deep-rooted interest in Artificial Intelligence. My academic journey has led me to specialize in Machine Learning, Deep Learning, and Natural Language Processing, where I have developed hands-on experience in state-of-the-art technologies like Retrieval Augmented Generation (RAG), Knowledge Graphs, and Graph Machine Learning. My work involves applying advanced AI techniques to solve complex problems, with a strong focus on creating impactful, real-world applications. I am driven by a passion for research and continually strive to contribute to the evolving landscape of AI.
 
-🌍 During my internship at Gupshup, I fine-tuned large language models on Indic language datasets, developing tools for multilingual QA in Urdu and Hinglish. As a Teaching Assistant at UNP, I enjoyed guiding students through Python for Data Science, emphasizing core libraries like pandas, NumPy, and scikit-learn.
+Research Interests
+Deep Learning and Neural Networks
+Natural Language Processing
+Retrieval Augmented Generation (RAG)
+Graph Machine Learning
+Computer Vision
+Transformer Architecture
+Semantic Web Technologies
+Skills
+Programming Languages: Python, C, LaTeX, SQL, CUDA
+Frameworks: PyTorch, Huggingface, Langchain, LlamaIndex, neo4j, Pinecone
+Technologies: Deep Learning, NLP, Retrieval Augmented Generation, Knowledge Graphs, Docker, Git, Streamlit
+Languages: English (Fluent), Urdu (Fluent), Hindi (Spoken Fluency)
+Education
+Indian Institute of Technology Kharagpur
+Bachelor of Technology in Mechanical Engineering
+CGPA: 7.56/10.0
+Relevant Courses: Machine Learning, Deep Learning, Linear Algebra, Probability and Statistics, Interpretable Machine Learning
+Duration: Dec 2021 – Present
 
-🚀 I've worked on several exciting projects:
+Academic Achievements
+JEE Advanced: Achieved a top percentile rank in one of the most competitive engineering entrance exams in India.
+Department Change: Ranked in the top 5% among 1800 students at IIT Kharagpur, enabling a department change in my first year.
 
-A RAG-powered chatbot for course-specific queries using video transcripts and textbooks.
-An AI tool for resume screening designed to detect potential fraud by analyzing recommendation patterns.
-A PDF Chatbot enabling real-time document Q&A with Hugging Face embeddings.
-💼 Skills include Python, PyTorch, TensorFlow, Docker, Streamlit, Azure, and Hugging Face Transformers. I thrive on creating solutions that bridge the gap between cutting-edge AI research and practical applications.
+Hobbies
+Competitive Programming
+Reading about AI advancements and latest research in Machine Learning
+Developing small projects to explore and test emerging technologies
 
-📫 Feel free to connect with me here or explore my projects to see my work in NLP, Computer Vision, and more!
+Service and Leadership
+Academic Mentor and Organizer for university orientation programs and DepC talks, fostering community and academic support for new students.
+Team Captain, Football General Championship at IIT Kharagpur, promoting teamwork and leadership in campus sports.
+
 
