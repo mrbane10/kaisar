@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Srinagar, Kashmir"
+title                    : "Kaisar Imtiyaz"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kaisar Imtiyaz"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,17 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kaisar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Final Year  @ Indian Institute of Technology Kharagpur, India. Deep Learning Researcher with interest in Natural Language Processing, LLM Modelling, Graph Machine Learning, Knowledge Graphs and Semantic Web. I love to code!"
+  location         : "Srinagar, Kashmir"
+  employer         : "IIT Kharagpur"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ikaisar10@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
