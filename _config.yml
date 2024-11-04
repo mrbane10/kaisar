@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "images/profile1.png"
   name             : "Kaisar"
   pronouns         : # example: "she/her"  
   bio              : "Final Year  @ Indian Institute of Technology Kharagpur, India. Deep Learning Researcher with interest in Natural Language Processing, LLM Modelling and Computer Vision. I love to code!"
